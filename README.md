@@ -185,7 +185,7 @@ This auditor checks for known indicators of compromise.
 
 Found a security issue? Have an improvement?
 
-1. **Security issues**: Email security@ronald-auditor.dev (or DM on X)
+1. **Security issues**: Email GotbudsAgentstuff@proton.me (or DM on X)
 2. **Bug reports**: Open an issue on GitHub
 3. **Feature requests**: Open an issue on GitHub
 4. **Pull requests**: Welcome!
@@ -202,8 +202,6 @@ MIT License - Use freely, modify freely, share freely.
 
 Created by **Ronald** 🔍
 
-Part of the [Ronald Audit Services](https://github.com/ronald-auditor)
-
 *"If you're not auditing, you're not safe."*
 
 ---
@@ -211,7 +209,7 @@ Part of the [Ronald Audit Services](https://github.com/ronald-auditor)
 ## Support
 
 - **GitHub Issues**: [github.com/ronald-auditor/skill-auditor/issues](https://github.com/ronald-auditor/skill-auditor/issues)
-- **X/Twitter**: [@RonaldAuditor](https://x.com/RonaldAuditor)
+- **X/Twitter**: [@laxstar131]([https://x.com/laxstar131])
 - **OpenClaw Discord**: Join the discussion
 
 ---
